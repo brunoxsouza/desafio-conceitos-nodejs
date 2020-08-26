@@ -2,8 +2,8 @@
 
 <h3 align="center">
   Desafio 02: Conceitos do Node.js - Resolvido ✔️
-  ⚠️ Atenção: Este repositório contém a resolução do desafio, mas se quiser tentar resolve-lo por conta própria basta acessar o <a href="https://github.com/Rocketseat/gostack-template-conceitos-nodejs">template</a>. ⚠️
 </h3>
+<h3>⚠️ Atenção: Este repositório contém a resolução do desafio, mas se quiser tentar resolve-lo por conta própria basta acessar o <a href="https://github.com/Rocketseat/gostack-template-conceitos-nodejs">template</a>. ⚠️</h3>
 
 <p align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
 
