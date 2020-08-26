@@ -3,7 +3,7 @@
 <h3 align="center">
   Desafio 02: Conceitos do Node.js - Resolvido ✔️
 </h3>
-<h3 align="center">⚠️ Atenção: Este repositório contém a resolução do desafio, para resolver por conta própria: <a href="#template-da-aplicação">Template da aplicação</a>. ⚠️</h3>
+<h3 align="center">⚠️Este repositório contém a resolução do desafio, para resolver por conta própria: <a href="#template-da-aplicação">Template da aplicação</a>. ⚠️</h3>
 
 <p align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
 
